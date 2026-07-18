@@ -162,3 +162,13 @@ th {
     background-color: navy;
     color: white;
 }
+audio {
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: navy;
+    margin-top: 20px;
+}
